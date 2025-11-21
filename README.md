@@ -26,9 +26,9 @@ Acesse o projeto, clicando neste link: https://iagooliveiraf.github.io/Preview_B
 
 ## Screenshot
 
-- Versão Desktop
+###  Versão Desktop
 ![alt text](image.png)
 
 
-- Versão Mobile
+###  Versão Mobile
 ![alt text](image-1.png)
