@@ -5,8 +5,9 @@ Esses desafios servem para o estudo e auto aprimoramento nas habilidades de dese
 ## Aprendizado para o Desenvolvimento do projeto
 
 - Estruturação básica com HTML.
-  - Estilização básica com CSS.
-  - Uso do Flexbox
+- Estilização básica com CSS.
+- Uso do Flexbox
+- Uso da Responsabilidade
   
 
 
